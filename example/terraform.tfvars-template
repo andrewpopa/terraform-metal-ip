@@ -1,0 +1,4 @@
+project_id  = ""
+quantity    = 2
+facility    = "ams1"
+description = "this-is-nice-descirption"
