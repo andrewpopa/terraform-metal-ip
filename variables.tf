@@ -27,3 +27,9 @@ variable "type" {
   type        = string
   default     = "public_ipv4"
 }
+
+variable "netmask" {
+  description = "netmask"
+  type        = string
+  default     = ""
+}
